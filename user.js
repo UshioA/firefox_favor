@@ -1,6 +1,6 @@
 user_pref("general.smoothScroll.msdPhysics.continuousMotionMaxDeltaMS", 250);
 user_pref("general.smoothScroll.msdPhysics.enabled", true);
-user_pref("general.smoothScroll.msdPhysics.motionBeginSpringConstant", 450);
+user_pref("general.smoothScroll.msdPhysics.motionBeginSpringConstant", 1000);
 user_pref("general.smoothScroll.msdPhysics.regularSpringConstant", 450);
 user_pref("general.smoothScroll.msdPhysics.slowdownMinDeltaMS", 50);
 user_pref("general.smoothScroll.msdPhysics.slowdownMinDeltaRatio;0", 4);
