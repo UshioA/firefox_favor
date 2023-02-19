@@ -8,3 +8,4 @@ user_pref("general.smoothScroll.msdPhysics.slowdownSpringConstant", 5000);
 user_pref("mousewheel.min_line_scroll_amount", 22);
 user_pref("toolkit.scrollbox.horizontalScrollDistance", 4);
 user_pref("toolkit.scrollbox.verticalScrollDistance", 5);
+user_pref("gfx.font_rendering.cleartype_params.enhanced_contrast", 0);
