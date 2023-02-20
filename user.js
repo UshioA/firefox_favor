@@ -9,3 +9,8 @@ user_pref("mousewheel.min_line_scroll_amount", 22);
 user_pref("toolkit.scrollbox.horizontalScrollDistance", 4);
 user_pref("toolkit.scrollbox.verticalScrollDistance", 5);
 user_pref("gfx.font_rendering.cleartype_params.enhanced_contrast", 0);
+user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
+user_pref("svg.context-properties.content.enabled", true);
+user_pref("layout.css.color-mix.enabled", true);
+user_pref("browser.tabs.tabMinWidth", 66);
+user_pref("browser.tabs.tabClipWidth", 86);
